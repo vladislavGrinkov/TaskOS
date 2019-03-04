@@ -1,0 +1,2 @@
+clang-format-7 -style=file -i main.c
+
